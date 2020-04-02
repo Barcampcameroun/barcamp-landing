@@ -1,7 +1,22 @@
-We will announce the links to the zoom rooms on Friday here:
+You only need the password if you participate via web.
 
 Plenary:
+https://zoom.us/j/265436640?pwd=SmFZM3JNVTBJcGc4cU5KV1NucGQyQT09
+Password: SmFZM3JNVTBJcGc4cU5KV1NucGQyQT09
+
 Room Alice:
+https://zoom.us/j/403368421?pwd=RXk5ZXpNK1ZkdXp3QU83SXVkbHpDdz09
+Password: RXk5ZXpNK1ZkdXp3QU83SXVkbHpDdz09
+
 Room Bob:
+https://zoom.us/j/449703016?pwd=RGZVOXY1aVhuVWZWUU82M1Y4MUU0UT09 
+Password: RGZVOXY1aVhuVWZWUU82M1Y4MUU0UT09
+
 Room Eve:
+https://zoom.us/j/434490850?pwd=UjNEYVo4TWRxRTZiWFZPL1B6VzBMUT09
+Password: UjNEYVo4TWRxRTZiWFZPL1B6VzBMUT09
+
 Room Mallory:
+https://zoom.us/j/320744562?pwd=cmF6amtWSVQ5OVhqRjZ6SWVFaWVhdz09
+Password: cmF6amtWSVQ5OVhqRjZ6SWVFaWVhdz09
+
